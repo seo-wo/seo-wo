@@ -12,4 +12,4 @@
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-wo&theme=blue-green&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-wo&theme=blue-green&show_icons=true)[![Solved.ac/profile/sw31004](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
